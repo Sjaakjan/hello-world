@@ -1,4 +1,3 @@
 # hello-world
-N-back app
 
-My first project is trying to build an N-back game in iOS using Swift in XCode.
+My first project is trying to build an app in iOS using Swift in XCode.
